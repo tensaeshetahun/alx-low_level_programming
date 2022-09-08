@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- * main - computes sizes of various data types
- *
+ *main - main - Entry point
+ *description - comput size of dat types
  *Return: zero
  */
 
